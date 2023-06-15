@@ -14,6 +14,7 @@ End to end ML project for telecom customer churn prediction
 
 ##
 ## **Demo**
+![image](https://github.com/kewin333/TELECOM_CHURN_PREDICTION/assets/100823696/16aa91fb-7a1d-4d19-9a84-707b0a719757)
 
 
 ##
